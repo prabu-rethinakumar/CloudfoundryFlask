@@ -1,0 +1,4 @@
+ibm_db
+flask
+google-api-python-client 
+google-cloud-pubsub

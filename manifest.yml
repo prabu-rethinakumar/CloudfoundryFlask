@@ -1,0 +1,6 @@
+---
+applications:
+- name: ABCD
+  memory: 256M
+  disk_quota: 1024M
+  buildpack: https://github.com/cloudfoundry/python-buildpack.git
